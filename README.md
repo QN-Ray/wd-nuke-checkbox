@@ -31,6 +31,6 @@ rect | 默认checkbox为圆型，存在这个属性则为正方形 | boolen | fa
 onPress仅仅是事件回调，并不会改变选择状态，这里注意下，具体详见doc里面用法。<!--二维码分隔误删-->
 basic.md 
 
- <img src='http://qr.liantu.com/api.php?&w=200&text=https://h5.m.taobao.com/qn/mobile/weex-tpl.html?_wx_tpl=https://unpkg.com/wd-nuke-checkbox@0.0.1/demo/basic.js' width="150px"/> 
+ <img src='http://qr.liantu.com/api.php?&w=200&text=https://h5.m.taobao.com/qn/mobile/weex-tpl.html?_wx_tpl=https://unpkg.com/wd-nuke-checkbox@0.0.2/demo/basic.js' width="150px"/> 
 
 demo bundle使用公用cdn承载，访问速度可能较慢~~

@@ -1,4 +1,4 @@
-# Button Demo
+# CheckBox Demo
 
 - order: 0
 
